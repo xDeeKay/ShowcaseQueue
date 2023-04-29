@@ -1,0 +1,13 @@
+name: ShowcaseQueue
+version: 1.0
+description: Queue and teleport players to a custom location.
+depend: [LuckPerms]
+author: xDeeKay
+main: net.dkcraft.showcasequeue.Main
+commands:
+    showcasequeue:
+        description: Use and configure ShowcaseQueue features.
+        usage: /showcasequeue
+        aliases: [scq, sq]
+        permission: showcasequeue.admin
+        permission-message: You do not have permission to do that.

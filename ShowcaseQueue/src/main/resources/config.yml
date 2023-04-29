@@ -1,0 +1,14 @@
+# The group a player needs to be in to be placed into the showcase queue.
+group: Guest
+
+# The time in seconds when the showcase queue teleports the next player.
+interval: 20
+
+# The location a player in the showcase queue is teleported to.
+location:
+  world: world
+  x: 0.0
+  y: 0.0
+  x: 0.0
+  yaw: 0.0
+  pitch: 0.0
